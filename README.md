@@ -1,5 +1,15 @@
-## Hi there 👋
+## 
+<h1 align="center"> Hi there 👋, I'm Pavan Shanbhag</h1>
+<h3 align="center">Cloud Developer with a Passion for Data Engineering, DevOps and Building Reliable Applications.</h3>
 
+- 🤔 I’m looking for help with Cloud Design Patterns, AWS.
+
+- 💬 Ask me about **Python, Docker, Kubernetes, Azure, Databricks....**
+  
+- 📫 How to reach me: techiepavan22@gmail.com
+  
+- ⚡ Fun fact:  I love Travelling, Gardening and Watching K-Dramas, Sci-Fi/Action Movies
+  
 <!--
 **pavanshanbhag/pavanshanbhag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

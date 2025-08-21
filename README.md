@@ -4,7 +4,7 @@
 
 - 🤔 I’m looking for help with Cloud Design Patterns, AWS.
 
-- 💬 Ask me about **Python, Docker, Kubernetes, Azure, Databricks....**
+- 💬 Ask me about **Python/golang, Docker, Kubernetes, Azure/AWS, Databricks....**
   
 - 📫 How to reach me: techiepavan22@gmail.com
   
